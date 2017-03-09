@@ -1,0 +1,6 @@
+C:\dev\PacmanEsimerkki\PacmanEsimerkki\bin\Debug\PacmanEsimerkki.exe.config
+C:\dev\PacmanEsimerkki\PacmanEsimerkki\bin\Debug\PacmanEsimerkki.exe
+C:\dev\PacmanEsimerkki\PacmanEsimerkki\bin\Debug\PacmanEsimerkki.pdb
+C:\dev\PacmanEsimerkki\PacmanEsimerkki\obj\Debug\PacmanEsimerkki.csprojResolveAssemblyReference.cache
+C:\dev\PacmanEsimerkki\PacmanEsimerkki\obj\Debug\PacmanEsimerkki.exe
+C:\dev\PacmanEsimerkki\PacmanEsimerkki\obj\Debug\PacmanEsimerkki.pdb
